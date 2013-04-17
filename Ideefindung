@@ -1,0 +1,7 @@
+Idee:  Wir entwerfen ein Portal, dass Eltern bei der Suche nach einer geeigneten Grundschule unterstützt. 
+
+Synchrone Nachrichten: Erstellung/Anzeige/Bearbeiten eines Schulprofil, Bewertung Rezension von Schulen 
+
+Asynchrone Nachrichten: Benachrichtigung ausgewahlter Intreressensgebiete bei akrtuellen Events. 
+                        Ein Benutzer aboniert seine Interessensgebiet und wird benachrigtigt wenn 
+                        da Änderungen stattfinden.
